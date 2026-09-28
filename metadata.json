@@ -1,0 +1,6 @@
+{
+  "name": "SentinelWatch AI - Conflict & Insecurity Early-Warning Platform",
+  "description": "Defensive intelligence and public-safety platform for early detection of conflict, insecurity, violence, disasters, and civil threats for civilian protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
